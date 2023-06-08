@@ -214,8 +214,8 @@ app.post('/send_email', function(req, res) {
        port: 587,
        auth:
        {
-         user: 'awagyusteak@gmail.com',
-         pass: 'wzk9tr1y5Iphm0xU'
+         user: '',
+         pass: ''
        }
      });
 
